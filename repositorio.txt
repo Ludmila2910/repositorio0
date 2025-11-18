@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repositorio</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Si quieres agregar estilos -->
+</head>
+<body>
+    <header>
+        <h1>Mi Repositorio en GitHub</h1>
+        <p>Este es un primer repositorio y código.</p>
+    </header>
+
+    <section id="info-repositorio">
+        <h2>Información del Repositorio</h2>
+        <ul>
+            <li><strong>Nombre:</strong> repositorio0 o</li>
+            <li><strong>Descripción:</strong> primer repositorio</li>
+            <li><strong>Lenguaje Principal:</strong> JavaScript</li>
+            <li><strong>Licencia:</strong> MIT</li>
+            <li><strong>Última actualización:</strong> 18 de noviembre de 2025</li>
+        </ul>
+    </section>
+
+    <section id="enlaces">
+        <h2>Enlaces</h2>
+        <ul>
+            <li><a href="https://github.com/Lumila2910/nombreDelRepositorio" target="_blank">Visitar el repositorio en GitHub</a></li>
+            <li><a href="https://www.npmjs.com/package/paquete" target="_blank">Instalar el paquete</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 Ludmila2910. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
